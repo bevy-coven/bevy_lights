@@ -79,9 +79,9 @@ single fires — a candle to a bonfire — one per run: `LIGHTS_KIND=bonfire car
 ## Part of the Coven
 
 `bevy_lights` is one of the [Bevy Coven](https://github.com/bevy-coven) crates: the family table there
-says which crate owns what, so two of them never both own the sun. Grimoire, the Coven's level editor,
+says which crate owns what, so two of them never both own the sun. The Cauldron, the Coven's level editor,
 takes it as an optional feature and edits a placed fire's own settings — see
-[use it in Grimoire](https://bevy-coven.github.io/crates/bevy_lights.html#use-it-in-grimoire).
+[use it in the Cauldron](https://bevy-coven.github.io/crates/bevy_lights.html#use-it-in-the-cauldron).
 
 ## Bevy compatibility
 
